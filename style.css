@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000000; /* Cor de fundo preta */
+  color: #FFF; /* Texto branco para contraste */
+  line-height: 1.6;
+}
+
+header {
+  background-color: #8B0000; /* Cor principal (vermelho escuro) */
+  color: #FFF;
+  padding: 15px 0;
+}
+
+header nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+header nav ul li {
+  display: inline;
+  margin: 0 20px;
+}
+
+header nav ul li a {
+  color: #FFF;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+header nav ul li a:hover {
+  background-color: #FF0000; /* Cor vermelha clara ao passar o mouse */
+  transition: background-color 0.3s;
+}
+
+section {
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  background-color: #222; /* Cor de fundo escura para as seções */
+}
+
+section h1 {
+  font-size: 26px;
+  margin-bottom: 15px;
+  color: #FF0000; /* Cor do título em vermelho claro */
+}
+
+section p {
+  font-size: 18px;
+  color: #FFF;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li a {
+  color: #8B0000; /* Links com a cor vermelha escura */
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #FF0000; /* Alterando a cor do link ao passar o mouse */
+}
+
+footer {
+  text-align: center;
+  background-color: #8B0000;
+  color: #FFF;
+  padding: 15px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  border-top: 2px solid #FF0000; /* Linha vermelha clara no topo do footer */
+}
+
+footer p {
+  font-size: 16px;
+}
+
