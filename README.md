@@ -7,5 +7,5 @@ No universo de Free Fire, a M1014 é uma das escopetas mais eficazes quando se t
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/051/818/279/large/battlegrounds-pngs-picsart-22-07-19-11-15-53-816.jpg?1658247307"
      alt="Skin M1014 Free Fire"
-     width="300">
+     width="500">
 
