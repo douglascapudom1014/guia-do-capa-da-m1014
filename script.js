@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     botaoDiminuirFonte.addEventListener('click', function () {
         if (tamanhoFonteAtual > 0.5) {  // evita fonte muito pequena
-            tamanhoFonteAtual -= 0.1;
+            tamanhoFonteAtual -= 0.5;
             document.getElementById('conteudo-guia-m1014').style.fontSize = `${tamanhoFonteAtual}rem`;
         }
     });
