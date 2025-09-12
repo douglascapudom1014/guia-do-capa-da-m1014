@@ -35,4 +35,23 @@ Use o botão de atirar personalizado e próximo ao seu polegar para agilizar o d
      alt="Skin M1014 Free Fire"
      width="500">
 
+💥 Vantagens:
+
+Alto poder de destruição em combate corpo a corpo.
+
+Dispara rapidamente, mesmo sendo uma escopeta.
+
+Não depende de carregadores ou miras – mais simples de usar.
+
+Extremamente útil em modos como Contra Squad.
+
+⚠️ Desvantagens:
+
+Pouco alcance: Ineficaz em média ou longa distância.
+
+Lenta recarga: Vulnerável durante esse processo.
+
+Não permite acoplar acessórios como coronha, cano ou boca.
+
+
 <img src="https://i0.wp.com/gamingonphone.com/wp-content/uploads/2020/07/ff1-removebg-preview.png" alt="Skin M1014 FF" width="500">
