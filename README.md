@@ -34,3 +34,5 @@ Use o botão de atirar personalizado e próximo ao seu polegar para agilizar o d
 <img src="https://i.pinimg.com/originals/13/45/2b/13452b8d70394bebbfd0395d8ef15179.png"
      alt="Skin M1014 Free Fire"
      width="500">
+
+<img src="https://i0.wp.com/gamingonphone.com/wp-content/uploads/2020/07/ff1-removebg-preview.png" alt="Skin M1014 FF" width="500">
